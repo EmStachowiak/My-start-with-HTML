@@ -6,6 +6,3 @@ background-image:url("https://img.freepik.com/free-vector/blur-pink-blue-abstrac
 
 
 
-
-background: green;
-

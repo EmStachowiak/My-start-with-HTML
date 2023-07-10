@@ -11,10 +11,6 @@
           }
 
 
-
-
-
-
           h2 {
           color:orange;
 
@@ -77,21 +73,19 @@
           flex-wrap: wrap;
           flex-direction: column;
           justify-content: center;
-          align-items: stretch;
+          align-items: center;
           margin: 0 auto;
-
         }
-
 
         #foto div  {
             width:33%;
             height:33%;
-             animation: anima 30s infinite;
+             animation: anima 10s infinite;
              position: relative;
              background-image:url("https://img.freepik.com/free-vector/blur-pink-blue-abstract-gradient-background-vector_53876-174836.jpg?w=360");
-
+             align-items: center;
+             justify-content: center;
           }
-
 
           @keyframes anima {
             from {left:0px;}
